@@ -3,8 +3,6 @@
 marp: true
 theme: gaia
 paginate: true
-# header: "![w:300 h:60](./img/logo.svg)"
-# footer: "![w:240 h:48](./img/erasmus-cofunded-logo.png) LOVEDISTANCE"
 size: 16:9
 
 ---
