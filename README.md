@@ -26,7 +26,7 @@ size: 16:9
 
 # ¿Qué es una crema?
 
-![bg left 50%](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Simple_emulsion.svg/640px-Simple_emulsion.svg.png)
+![bg left: 50%](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Simple_emulsion.svg/640px-Simple_emulsion.svg.png)
 
 <!-- fit -->
 
