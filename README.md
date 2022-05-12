@@ -3,9 +3,11 @@
 marp: true
 theme: gaia
 paginate: true
+<<<<<<< HEAD
 # header: "![w:300 h:60](./img/logo.svg)"
 # footer: "![w:240 h:48](./img/erasmus-cofunded-logo.png) LOVEDISTANCE"
-size: 1920x1080
+size: 16:9
+>>>>>>> a381446ef0544630abd8b6151553d610d1d08673
 
 ---
 
